@@ -1,0 +1,10 @@
+
+Flask
+Flask-Bcrypt
+scikit-learn
+Flask==2.3.3
+Flask-Bcrypt==1.0.1
+Flask-Dance==6.2.0
+scikit-learn==1.3.2
+numpy==1.26.4
+Werkzeug==2.3.7

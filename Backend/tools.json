@@ -1,0 +1,1341 @@
+[
+  {
+    "name": "ChatGPT","category": "Text Generation",
+    "rating": 4.9,"url": "https://chat.openai.com",
+    "pricing": "Free","tags": ["chatbot", "NLP", "assistant"],
+    "description": "AI-powered chatbot for conversation and content generation."
+  },
+  {
+    "name": "Beautiful.ai","category": "Presentation",
+    "rating": 4.5,"url": "https://beautiful.ai",
+    "pricing": "Paid","tags": ["slides", "present", "design", "ppt"],
+    "description": "Create stunning AI-powered presentations easily."
+  },
+  {
+    "name": "Gamma.app","category": "Slide Generation", "rating": 4.6, "url": "https://gamma.app", "pricing": "Free", "tags": ["slides", "pitch", "present"],
+    "description": "Beautiful AI-generated slide decks."
+  },
+  {
+    "name": "Tome", "category": "Presentation", "rating": 4.4, "url": "https://tome.app", "pricing": "Free", "tags": ["deck", "slides", "pitch", "ppt"],
+    "description": "AI-powered tool for building visual stories and decks."
+  },
+  {
+    "name": "SlidesAI", "category": "Presentation Tools",  "rating": 4.5,  "url": "https://slidesai.io",  "pricing": "Free",  "tags": ["slides", "ppt", "education"],
+    "description": "Generate Google Slides from text automatically."
+  },
+  
+  
+   
+ {
+    "name": "Slidesgo",
+    "category": "Presentation",
+    "rating": 4.5,
+    "url": "https://slidesgo.com",
+    "pricing": "Free",
+    "tags": ["ppt", "templates", "education"],
+    "description": "Free Google Slides and PowerPoint templates for presentations."
+  },
+  {
+    "name": "Visme",
+    "category": "Design & Presentation",
+    "rating": 4.6,
+    "url": "https://visme.co",
+    "pricing": "Free",
+    "tags": ["slides", "charts", "graphics"],
+    "description": "Design and present beautiful infographics, reports, and presentations."
+  },
+  {
+    "name": "Designs.ai",
+    "category": "Design",
+    "rating": 4.4,
+    "url": "https://designs.ai",
+    "pricing": "Paid",
+    "tags": ["graphics", "logo", "slides"],
+    "description": "AI-powered design tools for creating videos, logos, and more."
+  },
+  
+  {
+    "name": "Prezi",
+    "category": "Presentation",
+    "rating": 4.3,
+    "url": "https://prezi.com",
+    "pricing": "Paid",
+    "tags": ["slides", "interactive", "zoom"],
+    "description": "Create dynamic, non-linear presentations with Prezi."
+  },
+  {
+    "name": "Sendsteps",
+    "category": "Presentation & Polling",
+    "rating": 4.4,
+    "url": "https://www.sendsteps.com",
+    "pricing": "Free",
+    "tags": ["ppt", "poll", "interactive"],
+    "description": "Interactive presentation software with polls and quizzes."
+  },
+  {
+    "name": "Simplified",
+    "category": "Content Creation",
+    "rating": 4.5,
+    "url": "https://simplified.com",
+    "pricing": "Free",
+    "tags": ["slides", "design", "marketing"],
+    "description": "AI tools for designing, writing, and video editing—all-in-one."
+  },
+  {
+    "name": "Visla",
+    "category": "Video & Presentation",
+    "rating": 4.3,
+    "url": "https://www.visla.us",
+    "pricing": "Free",
+    "tags": ["ppt", "ai", "video"],
+    "description": "Generate videos and visual stories from your ideas using AI."
+  },
+  {
+    "name": "Renderforest",
+    "category": "Video & Presentation",
+    "rating": 4.4,
+    "url": "https://www.renderforest.com",
+    "pricing": "Free",
+    "tags": ["animation", "video", "slides"],
+    "description": "Create animated videos, intros, logos, and slides."
+  },
+  {
+    "name": "Kroma.ai",
+    "category": "Presentation & Data",
+    "rating": 4.2,
+    "url": "https://kroma.ai",
+    "pricing": "Paid",
+    "tags": ["slides", "data", "templates"],
+    "description": "Professional slide decks and visuals powered by AI and design experts."
+  },
+  {
+    "name": "Supernormal",
+    "category": "Meeting Assistant",
+    "rating": 4.5,
+    "url": "https://supernormal.com",
+    "pricing": "Free",
+    "tags": ["meetings", "transcription", "notes"],
+    "description": "Automatically generates meeting notes with AI for Zoom, Google Meet, and Teams."
+  },
+  {
+    "name": "Fireflies.ai",
+    "category": "Meeting Assistant",
+    "rating": 4.6,
+    "url": "https://fireflies.ai",
+    "pricing": "Free",
+    "tags": ["meetings", "transcript", "recorder"],
+    "description": "AI meeting assistant that records, transcribes, and summarizes conversations."
+  },
+  {
+    "name": "Tactiq",
+    "category": "Meeting Assistant",
+    "rating": 4.4,
+    "url": "https://tactiq.io",
+    "pricing": "Free",
+    "tags": ["google meet", "live captions", "summaries"],
+    "description": "Captures and summarizes Google Meet transcripts live."
+  },
+  {
+    "name": "Otter.ai",
+    "category": "Transcription",
+    "rating": 4.7,
+    "url": "https://otter.ai",
+    "pricing": "Free",
+    "tags": ["audio", "transcription", "notes"],
+    "description": "AI transcription tool for meetings, interviews, and lectures."
+  },
+  {
+    "name": "Tiipe",
+    "category": "Product Description",
+    "rating": 4.3,
+    "url": "https://tiipe.ai",
+    "pricing": "Free",
+    "tags": ["ecommerce", "product", "copywriting"],
+    "description": "Generate persuasive product descriptions using AI."
+  },
+  {
+    "name": "Neural.love",
+    "category": "Media Enhancement",
+    "rating": 4.6,
+    "url": "https://neural.love",
+    "pricing": "Free",
+    "tags": ["image", "video", "restoration"],
+    "description": "AI platform for photo restoration, enhancement, and generation."
+  },
+  {
+    "name": "Browse AI",
+    "category": "Web Scraping",
+    "rating": 4.5,
+    "url": "https://browse.ai",
+    "pricing": "Free",
+    "tags": ["scraping", "automation", "bot"],
+    "description": "Train a robot to extract and monitor data from websites."
+  },
+  {
+    "name": "AISEO",
+    "category": "SEO Writing",
+    "rating": 4.4,
+    "url": "https://aiseo.ai",
+    "pricing": "Free",
+    "tags": ["seo", "writing", "blogging"],
+    "description": "AI-powered content creation optimized for SEO."
+  },
+  {
+    "name": "Durable",
+    "category": "Business Builder",
+    "rating": 4.5,
+    "url": "https://durable.co",
+    "pricing": "Free",
+    "tags": ["website", "automation", "business"],
+    "description": "Instantly build a website and manage leads with AI."
+  },
+  {
+    "name": "Poe by Quora",
+    "category": "AI Chat",
+    "rating": 4.3,
+    "url": "https://poe.com",
+    "pricing": "Free",
+    "tags": ["chatbot", "AI", "conversation"],
+    "description": "Access multiple AI models like Claude, GPT, and more in one interface."
+  },
+  {
+    "name": "Magical",
+    "category": "Productivity",
+    "rating": 4.5,
+    "url": "https://www.getmagical.com",
+    "pricing": "Free",
+    "tags": ["automation", "text expansion", "crm"],
+    "description": "Auto-fill forms, expand text, and automate repetitive tasks."
+  },
+  {
+    "name": "Cleanup AI",
+    "category": "Image Editing",
+    "rating": 4.4,
+    "url": "https://cleanup.pictures",
+    "pricing": "Free",
+    "tags": ["remove", "objects", "image"],
+    "description": "Remove unwanted elements from any image with AI."
+  },
+  {
+    "name": "Rephrase.ai",
+    "category": "Video Personalization",
+    "rating": 4.2,
+    "url": "https://www.rephrase.ai",
+    "pricing": "Paid",
+    "tags": ["video", "avatar", "personalization"],
+    "description": "Create personalized AI videos for marketing and communication."
+  },
+  {
+    "name": "Krisp",
+    "category": "Noise Cancellation",
+    "rating": 4.6,
+    "url": "https://krisp.ai",
+    "pricing": "Free",
+    "tags": ["audio", "calls", "noise"],
+    "description": "AI-powered noise cancellation for calls and recordings."
+  },
+  {
+    "name": "Wordtune",
+    "category": "Writing Assistant",
+    "rating": 4.7,
+    "url": "https://www.wordtune.com",
+    "pricing": "Free",
+    "tags": ["writing", "editing", "paraphrasing"],
+    "description": "Rewrite and enhance your sentences in real time using AI."
+  },
+  {
+    "name": "AutoDraw",
+    "category": "Drawing",
+    "rating": 4.5,
+    "url": "https://www.autodraw.com",
+    "pricing": "Free",
+    "tags": ["drawing", "sketch", "art"],
+    "description": "Turns your sketches into professional drawings with suggestions."
+  },
+  {
+    "name": "Scribe",
+    "category": "Documentation",
+    "rating": 4.4,
+    "url": "https://scribehow.com",
+    "pricing": "Free",
+    "tags": ["docs", "how-to", "workflow"],
+    "description": "Automatically generate step-by-step guides from screen activity."
+  },
+  {
+    "name": "Stockimg AI",
+    "category": "Image Generation",
+    "rating": 4.3,
+    "url": "https://stockimg.ai",
+    "pricing": "Free",
+    "tags": ["stock", "design", "generate"],
+    "description": "Generate stock images, logos, posters, and more with AI."
+  },
+  {
+    "name": "VoiceMod",
+    "category": "Voice AI",
+    "rating": 4.5,
+    "url": "https://www.voicemod.net",
+    "pricing": "Free",
+    "tags": ["voice", "effects", "gaming"],
+    "description": "AI voice changer and soundboard for gaming and streaming."
+  },
+  {
+    "name": "Movio",
+    "category": "AI Avatar Video",
+    "rating": 4.4,
+    "url": "https://www.movio.la",
+    "pricing": "Paid",
+    "tags": ["avatar", "video", "presentation"],
+    "description": "Create talking avatar videos with AI by uploading text."
+  },
+  {
+    "name": "ChatPDF",
+    "category": "Document Assistant",
+    "rating": 4.6,
+    "url": "https://www.chatpdf.com",
+    "pricing": "Free",
+    "tags": ["pdf", "chat", "reader"],
+    "description": "Chat with your PDF files and ask questions about their content."
+  },
+  {
+    "name": "TLDR This",
+    "category": "Summarization",
+    "rating": 4.5,
+    "url": "https://tldrthis.com",
+    "pricing": "Free",
+    "tags": ["summarize", "articles", "reading"],
+    "description": "Automatically summarize any article or webpage into key points."
+  },
+  {
+    "name": "Otter.ai",
+    "category": "Transcription",
+    "rating": 4.7,
+    "url": "https://otter.ai",
+    "pricing": "Free",
+    "tags": ["meeting", "notes", "transcription"],
+    "description": "AI meeting assistant for real-time transcription and summaries."
+  },
+  {
+    "name": "Browse AI",
+    "category": "Web Scraping",
+    "rating": 4.6,
+    "url": "https://www.browse.ai",
+    "pricing": "Free",
+    "tags": ["scraping", "automation", "monitor"],
+    "description": "Train a robot to extract and monitor data from any website."
+  },
+  {
+    "name": "Decktopus",
+    "category": "Presentation Builder",
+    "rating": 4.4,
+    "url": "https://www.decktopus.com",
+    "pricing": "Free",
+    "tags": ["ppt", "slides", "presentation"],
+    "description": "Instantly generate professional presentations with AI assistance."
+  },
+  {
+    "name": "Speechify",
+    "category": "Text-to-Speech",
+    "rating": 4.8,
+    "url": "https://speechify.com",
+    "pricing": "Free",
+    "tags": ["tts", "voice", "reading"],
+    "description": "Convert any text into natural-sounding speech for easier consumption."
+  },
+  {
+    "name": "Durable",
+    "category": "Business Tools",
+    "rating": 4.6,
+    "url": "https://durable.co",
+    "pricing": "Free",
+    "tags": ["website", "builder", "startup"],
+    "description": "Build a complete business website in 30 seconds with AI."
+  },
+  {
+    "name": "Riffusion",
+    "category": "AI Music",
+    "rating": 4.5,
+    "url": "https://www.riffusion.com",
+    "pricing": "Free",
+    "tags": ["music", "real-time", "generation"],
+    "description": "Generate music in real-time using visual spectrogram diffusion."
+  },
+  {
+    "name": "Humata AI",
+    "category": "PDF Analysis",
+    "rating": 4.6,
+    "url": "https://www.humata.ai",
+    "pricing": "Free",
+    "tags": ["pdf", "analysis", "research"],
+    "description": "Ask questions and extract insights from technical PDF documents."
+  },
+  {
+    "name": "Galileo AI",
+    "category": "Design",
+    "rating": 4.3,
+    "url": "https://www.usegalileo.ai",
+    "pricing": "Free",
+    "tags": ["ui", "design", "prototype"],
+    "description": "Turn simple text prompts into beautiful UI designs with AI."
+  },
+  {
+    "name": "Pimeyes",
+    "category": "Face Recognition",
+    "rating": 4.4,
+    "url": "https://pimeyes.com",
+    "pricing": "Paid",
+    "tags": ["face", "search", "reverse-image"],
+    "description": "Find where your face appears online using facial recognition AI."
+  },
+  {
+    "name": "AI Dungeon",
+    "category": "Storytelling",
+    "rating": 4.6,
+    "url": "https://play.aidungeon.io",
+    "pricing": "Free",
+    "tags": ["games", "narrative", "text"],
+    "description": "An AI-powered text adventure game that creates endless stories."
+  },
+  {
+    "name": "Genei",
+    "category": "Research",
+    "rating": 4.5,
+    "url": "https://www.genei.io",
+    "pricing": "Paid",
+    "tags": ["research", "summarizer", "documents"],
+    "description": "Summarize and analyze research papers using AI."
+  },
+  {
+    "name": "Lexica",
+    "category": "Image Search",
+    "rating": 4.7,
+    "url": "https://lexica.art",
+    "pricing": "Free",
+    "tags": ["art", "search", "prompts"],
+    "description": "Search and explore AI-generated images with prompt inspiration."
+  },
+  {
+    "name": "Cleanup AI",
+    "category": "Photo Editing",
+    "rating": 4.6,
+    "url": "https://cleanup.pictures",
+    "pricing": "Free",
+    "tags": ["photo", "edit", "remove"],
+    "description": "Easily remove unwanted elements from images using AI."
+  },
+  {
+    "name": "Scribbr",
+    "category": "Academic Tools",
+    "rating": 4.7,
+    "url": "https://www.scribbr.com",
+    "pricing": "Paid",
+    "tags": ["plagiarism", "proofreading", "citation"],
+    "description": "AI tool for plagiarism checks and academic proofreading."
+  },
+  {
+    "name": "Kits AI",
+    "category": "Voice Generation",
+    "rating": 4.5,
+    "url": "https://www.kits.ai",
+    "pricing": "Paid",
+    "tags": ["voice", "music", "ai"],
+    "description": "Create custom AI voices and clone vocal styles."
+  },
+  {
+    "name": "AutoDraw",
+    "category": "Sketch Tools",
+    "rating": 4.4,
+    "url": "https://www.autodraw.com",
+    "pricing": "Free",
+    "tags": ["drawing", "sketch", "graphics"],
+    "description": "Turns rough doodles into refined icons and drawings."
+  },
+  {
+    "name": "NightCafe",
+    "category": "Art Generator",
+    "rating": 4.6,
+    "url": "https://creator.nightcafe.studio",
+    "pricing": "Free",
+    "tags": ["art", "creation", "diffusion"],
+    "description": "Create amazing AI artwork using various algorithms."
+  },
+  {
+    "name": "PromptHero",
+    "category": "Prompt Tools",
+    "rating": 4.3,
+    "url": "https://prompthero.com",
+    "pricing": "Free",
+    "tags": ["prompts", "search", "tools"],
+    "description": "Browse and search prompts used to generate AI art and models."
+  },
+  {
+    "name": "Scite",
+    "category": "Academic Research",
+    "rating": 4.6,
+    "url": "https://scite.ai",
+    "pricing": "Free",
+    "tags": ["research", "citations", "papers"],
+    "description": "Smart citation tool showing how papers are supported or contradicted."
+  },
+  
+  {
+    "name": "Research Rabbit",
+    "category": "Academic Discovery",
+    "rating": 4.4,
+    "url": "https://www.researchrabbit.ai",
+    "pricing": "Free",
+    "tags": ["papers", "tracking", "discovery"],
+    "description": "Visual tool for exploring research papers and building libraries."
+  },
+  
+  {
+    "name": "ExplainPaper",
+    "category": "Paper Simplification",
+    "rating": 4.6,
+    "url": "https://explainpaper.com",
+    "pricing": "Free",
+    "tags": ["understand", "pdf", "summarize"],
+    "description": "Upload research papers and let AI explain complex sections simply."
+  },
+  {
+    "name": "SciSpace Copilot",
+    "category": "Scientific Assistant",
+    "rating": 4.5,
+    "url": "https://typeset.io",
+    "pricing": "Free",
+    "tags": ["research", "ai assistant", "explanation"],
+    "description": "Reads and explains any scientific PDF using natural language."
+  },
+  {
+    "name": "Inciteful",
+    "category": "Research Discovery",
+    "rating": 4.4,
+    "url": "https://inciteful.xyz",
+    "pricing": "Free",
+    "tags": ["papers", "references", "network"],
+    "description": "Discover and visualize academic literature connections."
+  },
+  {
+    "name": "Connected Papers",
+    "category": "Paper Visualization",
+    "rating": 4.6,
+    "url": "https://connectedpapers.com",
+    "pricing": "Free",
+    "tags": ["graph", "research", "mapping"],
+    "description": "Build a graph of related papers to explore research topics visually."
+  },
+  {
+    "name": "Scholarcy",
+    "category": "Paper Summarizer",
+    "rating": 4.3,
+    "url": "https://scholarcy.com",
+    "pricing": "Paid",
+    "tags": ["summarize", "highlights", "flashcards"],
+    "description": "Reads research papers and turns them into flashcards and summaries."
+  },
+  {
+    "name": "Litmaps",
+    "category": "Literature Management",
+    "rating": 4.4,
+    "url": "https://www.litmaps.com",
+    "pricing": "Free",
+    "tags": ["track", "literature", "alerts"],
+    "description": "Track citations and get updates on new papers in your field."
+  },
+  {
+    "name": "GitHub Copilot",
+    "category": "Code Generation",
+    "rating": 4.9,
+    "url": "https://github.com/features/copilot",
+    "pricing": "Paid",
+    "tags": ["code", "autocomplete", "developer"],
+    "description": "AI pair programmer that suggests whole lines or blocks of code."
+  },
+  {
+    "name": "Tabnine",
+    "category": "Coding Assistant",
+    "rating": 4.7,
+    "url": "https://www.tabnine.com",
+    "pricing": "Free",
+    "tags": ["autocomplete", "AI", "IDE"],
+    "description": "AI code completion for multiple programming languages."
+  },
+  {
+    "name": "CodeWhisperer",
+    "category": "Code Completion",
+    "rating": 4.6,
+    "url": "https://aws.amazon.com/codewhisperer/",
+    "pricing": "Free",
+    "tags": ["aws", "ai", "autocomplete"],
+    "description": "Amazon's AI coding assistant with built-in security scanning."
+  },
+  {
+    "name": "MutableAI",
+    "category": "Code Refactoring",
+    "rating": 4.5,
+    "url": "https://mutable.ai",
+    "pricing": "Free",
+    "tags": ["refactor", "clean code", "autocomplete"],
+    "description": "Instantly clean and refactor code with AI in your IDE."
+  },
+  {
+    "name": "Replit Ghostwriter",
+    "category": "Code Generation",
+    "rating": 4.6,
+    "url": "https://replit.com/site/ghostwriter",
+    "pricing": "Paid",
+    "tags": ["code", "IDE", "AI assistant"],
+    "description": "Code generator and debugger inside Replit IDE."
+  },
+  {
+    "name": "Kite",
+    "category": "Coding Assistant",
+    "rating": 4.5,
+    "url": "https://kite.com",
+    "pricing": "Free",
+    "tags": ["python", "code", "autocomplete"],
+    "description": "AI-powered autocomplete for Python and JavaScript."
+  },
+  {
+    "name": "Codex",
+    "category": "Code Translation",
+    "rating": 4.8,
+    "url": "https://openai.com/blog/openai-codex",
+    "pricing": "Paid",
+    "tags": ["openai", "code", "conversion"],
+    "description": "Translates natural language into code in many languages."
+  },
+  {
+    "name": "AskCodi",
+    "category": "Coding Assistant",
+    "rating": 4.4,
+    "url": "https://www.askcodi.com",
+    "pricing": "Free",
+    "tags": ["query", "code", "generate"],
+    "description": "Use natural language to generate code snippets, tests, and SQL."
+  },
+  {
+    "name": "Codeium",
+    "category": "AI Dev Tool",
+    "rating": 4.6,
+    "url": "https://codeium.com",
+    "pricing": "Free",
+    "tags": ["developer", "productivity", "autocomplete"],
+    "description": "Fast, free AI-powered autocomplete and code search for developers."
+  },
+  {
+    "name": "Blackbox AI",
+    "category": "Code Search",
+    "rating": 4.5,
+    "url": "https://www.useblackbox.io",
+    "pricing": "Free",
+    "tags": ["snippets", "code", "search"],
+    "description": "Search and copy code snippets from the web using AI."
+  },
+  
+  {
+    "name": "Designify","category": "Image Editing","rating": 4.5,"url": "https://www.designify.com/","pricing": "Free","tags": ["background", "photo", "enhancement"],
+     "description": "Automatically enhance images and remove backgrounds using AI."
+  },
+  {
+    "name": "Khroma","category": "Color Tools","rating": 4.4,"url": "https://www.khroma.co/", "pricing": "Free", "tags": ["colors", "palette", "design"],
+    "description": "AI-powered color tool that learns your preferences to generate unique palettes."
+  },
+  {
+    "name": "Uizard",
+    "category": "UI Design",
+    "rating": 4.6,
+    "url": "https://uizard.io/",
+    "pricing": "Free",
+    "tags": ["ui", "prototyping", "wireframe"],
+    "description": "Transform hand-drawn sketches into interactive UI prototypes using AI."
+  },
+  {
+    "name": "Let’s Enhance",
+    "category": "Photo Enhancement",
+    "rating": 4.7,
+    "url": "https://letsenhance.io/",
+    "pricing": "Paid",
+    "tags": ["image", "enhance", "hd"],
+    "description": "AI tool that improves photo resolution and removes noise."
+  },
+  {
+    "name": "AutoDraw",
+    "category": "Sketching",
+    "rating": 4.3,
+    "url": "https://www.autodraw.com/",
+    "pricing": "Free",
+    "tags": ["drawing", "sketch", "tool"],
+    "description": "AI-powered drawing tool that turns your doodles into neat icons."
+  },
+  {
+    "name": "Artbreeder",
+    "category": "Art Generation",
+    "rating": 4.5,
+    "url": "https://www.artbreeder.com/",
+    "pricing": "Free",
+    "tags": ["art", "morphing", "creative"],
+    "description": "Collaborative AI tool to create and evolve images and portraits."
+  },
+  {
+    "name": "Designs.ai",
+    "category": "Creative Suite",
+    "rating": 4.4,
+    "url": "https://designs.ai/",
+    "pricing": "Paid",
+    "tags": ["logo", "mockup", "design"],
+    "description": "AI-powered platform to generate logos, videos, and social media posts."
+  },
+  {
+    "name": "Remove.bg",
+    "category": "Image Editing",
+    "rating": 4.8,
+    "url": "https://remove.bg/",
+    "pricing": "Free",
+    "tags": ["background", "removal", "photo"],
+    "description": "Automatically removes image backgrounds in one click."
+  },
+  {
+    "name": "Canva AI",
+    "category": "Graphic Design",
+    "rating": 4.8,
+    "url": "https://www.canva.com",
+    "pricing": "Free",
+    "tags": ["templates", "design", "graphics"],
+    "description": "Create beautiful designs and content with Canva's AI-powered tools and templates."
+  },
+  {
+    "name": "Looka",
+    "category": "Graphic Design",
+    "rating": 4.6,
+    "url": "https://www.looka.com",
+    "pricing": "Paid",
+    "tags": ["logo", "branding", "identity"],
+    "description": "AI-powered logo maker and branding toolkit for businesses."
+  },
+  {
+    "name": "Remove.bg",
+    "category": "Graphic Design",
+    "rating": 4.8,
+    "url": "https://remove.bg",
+    "pricing": "Free",
+    "tags": ["image", "background", "removal"],
+    "description": "Automatically remove image backgrounds with a single click."
+  },
+  {
+    "name": "Designs.ai",
+    "category": "Graphic Design",
+    "rating": 4.5,
+    "url": "https://designs.ai",
+    "pricing": "Paid",
+    "tags": ["logo", "videos", "voiceover"],
+    "description": "Create logos, videos, banners and mockups using AI in minutes."
+  },
+  {
+    "name": "Uizard",
+    "category": "Graphic Design",
+    "rating": 4.4,
+    "url": "https://uizard.io",
+    "pricing": "Free",
+    "tags": ["wireframes", "UI", "mockups"],
+    "description": "Design UI mockups and wireframes with ease using AI-assisted tools."
+  },
+  {
+    "name": "Khroma",
+    "category": "Graphic Design",
+    "rating": 4.3,
+    "url": "https://khroma.co",
+    "pricing": "Free",
+    "tags": ["colors", "palette", "designer"],
+    "description": "AI-based color palette generator for graphic and UI designers."
+  },
+  {
+    "name": "AutoDraw",
+    "category": "Graphic Design",
+    "rating": 4.2,
+    "url": "https://www.autodraw.com",
+    "pricing": "Free",
+    "tags": ["drawing", "sketch", "illustration"],
+    "description": "Turn rough sketches into refined drawings using Google's AI."
+  },
+  {
+    "name": "Artbreeder",
+    "category": "Graphic Design",
+    "rating": 4.4,
+    "url": "https://www.artbreeder.com",
+    "pricing": "Free",
+    "tags": ["portrait", "blend", "art"],
+    "description": "Create and blend art styles or faces using genetic AI."
+  },
+  {
+    "name": "Brandmark",
+    "category": "Graphic Design",
+    "rating": 4.5,
+    "url": "https://brandmark.io",
+    "pricing": "Paid",
+    "tags": ["logo", "branding", "design"],
+    "description": "Instantly generate unique logos and brand designs."
+  },
+  {
+    "name": "Let's Enhance",
+    "category": "Graphic Design",
+    "rating": 4.6,
+    "url": "https://letsenhance.io",
+    "pricing": "Free",
+    "tags": ["enhance", "resolution", "photo"],
+    "description": "Improve image quality, upscale resolution, and remove compression artifacts using AI."
+  },
+  {
+    "name": "GitHub Copilot",
+    "category": "Programming",
+    "rating": 4.9,
+    "url": "https://github.com/features/copilot",
+    "pricing": "Paid",
+    "tags": ["code", "autocomplete", "developer"],
+    "description": "AI pair programmer that suggests whole lines or blocks of code."
+  },
+  
+  {
+    "name": "Tabnine",
+    "category": "Programming",
+    "rating": 4.6,
+    "url": "https://www.tabnine.com",
+    "pricing": "Free",
+    "tags": ["autocomplete", "IDE", "developer"],
+    "description": "AI assistant that helps you write code faster with intelligent autocompletions."
+  },
+  {
+    "name": "Replit Ghostwriter",
+    "category": "Programming",
+    "rating": 4.5,
+    "url": "https://replit.com/site/ghostwriter",
+    "pricing": "Paid",
+    "tags": ["code", "replit", "IDE"],
+    "description": "An AI coding companion built into the Replit platform to assist with code generation."
+  },
+  {
+    "name": "Blackbox AI",
+    "category": "Programming",
+    "rating": 4.4,
+    "url": "https://www.useblackbox.io",
+    "pricing": "Free",
+    "tags": ["code", "snippets", "search"],
+    "description": "Code autocomplete and search assistant for developers across multiple languages."
+  },
+  {
+    "name": "Codeium",
+    "category": "Programming",
+    "rating": 4.3,
+    "url": "https://codeium.com",
+    "pricing": "Free",
+    "tags": ["autocomplete", "IDE", "coding"],
+    "description": "Free AI-powered code completion tool supporting 40+ languages."
+  },
+  {
+    "name": "Amazon CodeWhisperer",
+    "category": "Programming",
+    "rating": 4.2,
+    "url": "https://aws.amazon.com/codewhisperer/",
+    "pricing": "Free",
+    "tags": ["aws", "autocomplete", "code"],
+    "description": "AI-powered code generation tool by Amazon, integrated with AWS services."
+  },
+  {
+    "name": "Polycoder",
+    "category": "Programming",
+    "rating": 4.0,
+    "url": "https://github.com/VHellendoorn/Code-LMs",
+    "pricing": "Free",
+    "tags": ["code", "language model", "open source"],
+    "description": "An open-source alternative to GitHub Copilot trained on code datasets."
+  },
+  {
+    "name": "Codex",
+    "category": "Programming",
+    "rating": 4.8,
+    "url": "https://openai.com/blog/openai-codex",
+    "pricing": "Paid",
+    "tags": ["openai", "code", "gpt"],
+    "description": "The AI behind GitHub Copilot; converts natural language into code."
+  },
+  {
+    "name": "MutableAI",
+    "category": "Programming",
+    "rating": 4.4,
+    "url": "https://mutable.ai",
+    "pricing": "Free",
+    "tags": ["refactor", "autocomplete", "IDE"],
+    "description": "AI that writes, edits, and refactors your code for maximum productivity."
+  },
+  {
+    "name": "Pieces for Developers",
+    "category": "Programming",
+    "rating": 4.5,
+    "url": "https://code.pieces.app",
+    "pricing": "Free",
+    "tags": ["snippets", "productivity", "IDE"],
+    "description": "Smart tool for saving, organizing, and reusing code snippets powered by AI."
+  },
+  {
+    "name": "Soundraw",
+    "category": "Audio & Music",
+    "rating": 4.6,
+    "url": "https://soundraw.io",
+    "pricing": "Paid",
+    "tags": ["music", "generation", "compose"],
+    "description": "Generate original royalty-free music with AI for your videos, streams, or games."
+  },
+  {
+    "name": "Beatoven.ai",
+    "category": "Audio & Music",
+    "rating": 4.4,
+    "url": "https://beatoven.ai",
+    "pricing": "Free",
+    "tags": ["soundtrack", "music", "composer"],
+    "description": "AI music composer that generates mood-based music tailored to your content."
+  },
+  {
+    "name": "Voicemod",
+    "category": "Audio & Music",
+    "rating": 4.3,
+    "url": "https://www.voicemod.net",
+    "pricing": "Free",
+    "tags": ["voice", "changer", "effects"],
+    "description": "Real-time voice changer and soundboard for gaming and content creation."
+  },
+  {
+    "name": "LALAL.AI",
+    "category": "Audio & Music",
+    "rating": 4.5,
+    "url": "https://www.lalal.ai",
+    "pricing": "Free",
+    "tags": ["stem", "splitter", "music"],
+    "description": "AI vocal remover and music source separation tool for audio editing."
+  },
+  {
+    "name": "Boomy",
+    "category": "Audio & Music",
+    "rating": 4.6,
+    "url": "https://boomy.com",
+    "pricing": "Free",
+    "tags": ["music", "generate", "share"],
+    "description": "Create original music in seconds and release it to streaming platforms."
+  },
+  {
+    "name": "Descript",
+    "category": "Audio & Music",
+    "rating": 4.7,
+    "url": "https://descript.com",
+    "pricing": "Paid",
+    "tags": ["podcast", "audio", "transcription"],
+    "description": "All-in-one audio and video editor with transcription and voice cloning tools."
+  },
+  {
+    "name": "Voice.ai",
+    "category": "Audio & Music",
+    "rating": 4.2,
+    "url": "https://voice.ai",
+    "pricing": "Free",
+    "tags": ["voice", "ai", "changer"],
+    "description": "AI-powered real-time voice changer and voice creation platform."
+  },
+  {
+    "name": "Cleanvoice AI",
+    "category": "Audio & Music",
+    "rating": 4.5,
+    "url": "https://cleanvoice.ai",
+    "pricing": "Paid",
+    "tags": ["podcast", "editing", "cleanup"],
+    "description": "Removes filler words, stuttering, and mouth sounds from podcasts automatically."
+  },
+  {
+    "name": "Mubert",
+    "category": "Audio & Music",
+    "rating": 4.6,
+    "url": "https://mubert.com",
+    "pricing": "Free",
+    "tags": ["music", "streaming", "background"],
+    "description": "AI music generator for streamers, filmmakers, and content creators."
+  },
+  {
+    "name": "Aiva",
+    "category": "Audio & Music",
+    "rating": 4.4,
+    "url": "https://www.aiva.ai",
+    "pricing": "Free",
+    "tags": ["composer", "orchestra", "music"],
+    "description": "AI music composer for games, movies, and commercials using deep learning."
+  },
+  {
+    "name": "Runway ML",
+    "category": "Video Editing",
+    "rating": 4.8,
+    "url": "https://runwayml.com",
+    "pricing": "Paid",
+    "tags": ["video", "editing", "effects"],
+    "description": "Advanced video editing with AI tools for background removal, motion tracking, and more."
+  },
+  {
+    "name": "Pictory",
+    "category": "Video Editing",
+    "rating": 4.6,
+    "url": "https://pictory.ai",
+    "pricing": "Paid",
+    "tags": ["video", "content", "social"],
+    "description": "Turn long-form content into short branded videos using AI."
+  },
+  {
+    "name": "Lumen5",
+    "category": "Video Editing",
+    "rating": 4.5,
+    "url": "https://lumen5.com",
+    "pricing": "Free",
+    "tags": ["video", "marketing", "blog"],
+    "description": "AI tool that converts blog posts and articles into engaging videos."
+  },
+  {
+    "name": "Magisto",
+    "category": "Video Editing",
+    "rating": 4.4,
+    "url": "https://www.magisto.com",
+    "pricing": "Paid",
+    "tags": ["video", "editor", "ai"],
+    "description": "Create powerful marketing videos in minutes using AI."
+  },
+  {
+    "name": "Descript",
+    "category": "Video Editing",
+    "rating": 4.7,
+    "url": "https://descript.com",
+    "pricing": "Paid",
+    "tags": ["podcast", "audio", "video"],
+    "description": "AI-powered video and podcast editing with transcription and screen recording."
+  },
+ {
+    "name": "Synthesia",
+    "category": "Video Editing",
+    "rating": 4.6,
+    "url": "https://synthesia.io",
+    "pricing": "Paid",
+    "tags": ["video", "avatar", "text-to-video"],
+    "description": "Create videos with realistic AI avatars using just text input."
+  },
+  {
+    "name": "Wisecut",
+    "category": "Video Editing",
+    "rating": 4.5,
+    "url": "https://www.wisecut.video",
+    "pricing": "Free",
+    "tags": ["video", "auto-editing", "youtube"],
+    "description": "Automatically cuts silences and adds background music to your videos."
+  },
+  {
+    "name": "Veed.io",
+    "category": "Video Editing",
+    "rating": 4.4,
+    "url": "https://www.veed.io",
+    "pricing": "Free",
+    "tags": ["video", "captioning", "social-media"],
+    "description": "Online video editor with AI captioning, filters, and templates."
+  },
+  {
+    "name": "FlexClip",
+    "category": "Video Editing",
+    "rating": 4.3,
+    "url": "https://www.flexclip.com",
+    "pricing": "Free",
+    "tags": ["video", "slideshow", "templates"],
+    "description": "AI-assisted video maker with templates for marketing and personal projects."
+  },
+  {
+    "name": "Designs.ai Videomaker",
+    "category": "Video Editing",
+    "rating": 4.2,
+    "url": "https://designs.ai/tools/video",
+    "pricing": "Paid",
+    "tags": ["branding", "marketing", "promo"],
+    "description": "Instantly generate promotional videos using text and AI."
+  },
+ {
+    "name": "Perplexity AI",
+    "category": "Research & Assistant",
+    "rating": 4.7,
+    "url": "https://www.perplexity.ai",
+    "pricing": "Free",
+    "tags": ["research", "answers", "exploration"],
+    "description": "AI-powered research assistant that gives cited answers and summaries."
+  },
+  {
+    "name": "Elicit",
+    "category": "Research & Assistant",
+    "rating": 4.6,
+    "url": "https://elicit.org",
+    "pricing": "Free",
+    "tags": ["research", "papers", "summarizer"],
+    "description": "Assists in literature reviews and extracting key data from research papers."
+  },
+  {
+    "name": "Consensus",
+    "category": "Research & Assistant",
+    "rating": 4.5,
+    "url": "https://consensus.app",
+    "pricing": "Free",
+    "tags": ["academic", "evidence", "literature"],
+    "description": "Finds evidence-based answers directly from scientific research papers."
+  },
+  {
+    "name": "SciSpace",
+    "category": "Research & Assistant",
+    "rating": 4.6,
+    "url": "https://typeset.io",
+    "pricing": "Free",
+    "tags": ["papers", "summarization", "understanding"],
+    "description": "Explains academic papers in plain English with AI assistance."
+  },
+  {
+    "name": "ChatGPT",
+    "category": "Research & Assistant",
+    "rating": 4.9,
+    "url": "https://chat.openai.com",
+    "pricing": "Free",
+    "tags": ["chatbot", "assistant", "summarizer"],
+    "description": "Conversational AI assistant for brainstorming, summarizing, and Q&A."
+  },
+  {
+    "name": "Perplexity AI",
+    "category": "Research & Assistant",
+    "rating": 4.7,
+    "url": "https://www.perplexity.ai",
+    "pricing": "Free",
+    "tags": ["research", "answers", "exploration"],
+    "description": "AI-powered research assistant that gives cited answers and summaries."
+  },
+  {
+    "name": "Elicit",
+    "category": "Research & Assistant",
+    "rating": 4.6,
+    "url": "https://elicit.org",
+    "pricing": "Free",
+    "tags": ["research", "papers", "summarizer"],
+    "description": "Assists in literature reviews and extracting key data from research papers."
+  },
+  {
+    "name": "Consensus",
+    "category": "Research & Assistant",
+    "rating": 4.5,
+    "url": "https://consensus.app",
+    "pricing": "Free",
+    "tags": ["academic", "evidence", "literature"],
+    "description": "Finds evidence-based answers directly from scientific research papers."
+  },
+  {
+    "name": "SciSpace",
+    "category": "Research & Assistant",
+    "rating": 4.6,
+    "url": "https://typeset.io",
+    "pricing": "Free",
+    "tags": ["papers", "summarization", "understanding"],
+    "description": "Explains academic papers in plain English with AI assistance."
+  },
+  
+  {
+    "name": "Research Rabbit",
+    "category": "Research & Assistant",
+    "rating": 4.5,
+    "url": "https://www.researchrabbit.ai",
+    "pricing": "Free",
+    "tags": ["research", "visualization", "collaboration"],
+    "description": "An AI research assistant designed to assist in literature research, discovering and organizing academic papers efficiently with visualizations and collaboration tools."
+  },
+  {
+    "name": "Litmaps",
+    "category": "Research & Assistant",
+    "rating": 4.6,
+    "url": "https://www.litmaps.com",
+    "pricing": "Free",
+    "tags": ["literature mapping", "discovery", "alerts"],
+    "description": "Accelerates your literature review process with dynamic citation visualizations and discovery tools."
+  },
+  {
+    "name": "R Discovery",
+    "category": "Research & Assistant",
+    "rating": 4.4,
+    "url": "https://www.researcher-app.com",
+    "pricing": "Free",
+    "tags": ["personalized reading", "cross-platform", "multilingual"],
+    "description": "Provides tailored research paper recommendations, multilingual abstracts, and integration with citation managers."
+  },
+  {
+    "name": "Scite",
+    "category": "Research & Assistant",
+    "rating": 4.5,
+    "url": "https://scite.ai",
+    "pricing": "Freemium",
+    "tags": ["citation analysis", "research validation", "literature review"],
+    "description": "Analyzes citation contexts to show whether research papers support or contrast cited works."
+  },
+  {
+    "name": "Inciteful",
+    "category": "Research & Assistant",
+    "rating": 4.3,
+    "url": "https://inciteful.xyz",
+    "pricing": "Free",
+    "tags": ["citation network", "paper discovery", "research mapping"],
+    "description": "Discovers academic papers through citation network analysis and research graph exploration."
+  },
+  {
+    "name": "Scholarcy",
+    "category": "Research & Assistant",
+    "rating": 4.4,
+    "url": "https://www.scholarcy.com",
+    "pricing": "Freemium",
+    "tags": ["summarization", "flashcards", "reference management"],
+    "description": "Summarizes articles into flashcards with highlights of methodology, key points, and findings."
+  },
+  {
+    "name": "ResearchPal",
+    "category": "Research & Assistant",
+    "rating": 4.5,
+    "url": "https://researchpal.co",
+    "pricing": "Free",
+    "tags": ["academic writing", "reference generation", "PDF reading"],
+    "description": "Accelerates academic writing with tools for references, tone correction, PDF summarization, and Zotero integration."
+  },
+  {
+    "name": "Wordvice AI",
+    "category": "Research & Assistant",
+    "rating": 4.6,
+    "url": "https://wordvice.ai",
+    "pricing": "Freemium",
+    "tags": ["grammar checking", "paraphrasing", "summarization"],
+    "description": "Improves written academic work through grammar correction, paraphrasing, and AI summaries."
+  },
+  {
+    "name": "Perplexity AI",
+    "category": "Research & Assistant",
+    "rating": 4.5,
+    "url": "https://www.perplexity.ai",
+    "pricing": "Freemium",
+    "tags": ["AI search", "summarization", "citations"],
+    "description": "Delivers concise answers with citations using real-time AI search across the web and academic sources."
+  },
+  {
+    "name": "Recall",
+    "category": "Research & Assistant",
+    "rating": 4.4,
+    "url": "https://recall.ai",
+    "pricing": "Free",
+    "tags": ["summarization", "knowledge graph", "content organization"],
+    "description": "Summarizes text and video content, creates knowledge graphs, and generates study quizzes from notes."
+  },
+  
+  {
+    "name": "Jasper",
+    "category": "Content Writing",
+    "rating": 4.7,
+    "url": "https://www.jasper.ai",
+    "pricing": "Paid (Free Trial)",
+    "tags": ["copywriting", "blogging", "marketing"],
+    "description": "AI-powered writing assistant for creating high-converting marketing content."
+  },
+  {
+    "name": "Copy.ai",
+    "category": "Content Writing",
+    "rating": 4.6,
+    "url": "https://www.copy.ai",
+    "pricing": "Free & Paid",
+    "tags": ["social media", "ads", "email"],
+    "description": "Generates marketing copy, social media posts, and email content quickly."
+  },
+  {
+    "name": "Writesonic",
+    "category": "Content Writing",
+    "rating": 4.5,
+    "url": "https://writesonic.com",
+    "pricing": "Free & Paid",
+    "tags": ["SEO", "blogging", "e-commerce"],
+    "description": "AI writing tool for creating SEO-optimized articles and product descriptions."
+  },
+  {
+    "name": "Anyword",
+    "category": "Content Writing",
+    "rating": 4.4,
+    "url": "https://anyword.com",
+    "pricing": "Paid",
+    "tags": ["ads", "landing pages", "email"],
+    "description": "Data-driven copywriting tool that optimizes content for conversions."
+  },
+  {
+    "name": "HyperWrite",
+    "category": "Content Writing",
+    "rating": 4.3,
+    "url": "https://www.hyperwriteai.com",
+    "pricing": "Free & Paid",
+    "tags": ["writing assistant", "productivity", "AI"],
+    "description": "AI writing assistant that helps with drafting, rewriting, and idea generation."
+  },
+  
+  {
+    "name": "Midjourney",
+    "category": "Image Generation",
+    "rating": 4.8,
+    "url": "https://www.midjourney.com",
+    "pricing": "Paid",
+    "tags": ["artistic", "high-quality", "creative"],
+    "description": "AI-powered tool that generates high-quality, artistic images from text prompts."
+  },
+  {
+    "name": "Adobe Firefly",
+    "category": "Image Generation",
+    "rating": 4.7,
+    "url": "https://firefly.adobe.com",
+    "pricing": "Free & Paid",
+    "tags": ["photorealistic", "editing", "professional"],
+    "description": "Generates images with a focus on photorealism and integrates with Adobe Creative Cloud."
+  },
+  {
+    "name": "DALL·E 3",
+    "category": "Image Generation",
+    "rating": 4.6,
+    "url": "https://openai.com/dall-e-3",
+    "pricing": "Free & Paid",
+    "tags": ["creative", "illustrations", "concept art"],
+    "description": "OpenAI's image generation model that creates detailed images from textual descriptions."
+  },
+  {
+    "name": "Ideogram",
+    "category": "Image Generation",
+    "rating": 4.5,
+    "url": "https://ideogram.ai",
+    "pricing": "Free & Paid",
+    "tags": ["text-to-image", "design", "logos"],
+    "description": "Generates images with legible text, ideal for creating logos and designs."
+  },
+  {
+    "name": "ComfyUI",
+    "category": "Image Generation",
+    "rating": 4.4,
+    "url": "https://www.comfy.org",
+    "pricing": "Free",
+    "tags": ["open-source", "customizable", "workflow"],
+    "description": "Node-based, open-source UI for creating custom image generation workflows."
+  }
+]
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+   
