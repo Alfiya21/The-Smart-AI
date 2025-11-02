@@ -1,5 +1,6 @@
 # The-Smart-AI
 1. Introduction
+   
 1.1 Purpose
 
 The purpose of this project is to develop a smart, searchable directory of AI tools. Users can browse, search, and filter AI tools based on task, category, pricing, and rating. The platform aims to help students, developers, content creators, and researchers discover the most relevant AI tools for their needs.
