@@ -1,0 +1,43 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="container d-flex justify-content-center align-items-center min-vh-100">
+  <div class="card shadow p-4" style="width: 100%; max-width: 400px;">
+    <h3 class="text-center mb-4">Welcome Back</h3>
+
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        {% for category, message in messages %}
+          <div class="alert alert-{{ category }} alert-dismissible fade show" role="alert">
+            {{ message }}
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+          </div>
+        {% endfor %}
+      {% endif %}
+    {% endwith %}
+
+    <form method="POST" action="{{ url_for('login') }}">
+      <div class="mb-3">
+        <label for="email" class="form-label">Email or Username</label>
+        <input type="text" class="form-control" id="email" name="username" required>
+      </div>
+
+      <div class="mb-4">
+        <label for="password" class="form-label">Password</label>
+        <input type="password" class="form-control" id="password" name="password" required>
+      </div>
+
+      <button type="submit" class="btn btn-primary w-100">Login</button>
+    </form>
+
+    <div class="text-center mt-3">
+      <a href="#" class="btn btn-outline-danger w-100">Continue with Google</a>
+    </div>
+
+    <div class="text-center mt-3">
+      <small>Forgot your password? <a href="#">Reset it here</a></small>
+    </div>
+  </div>
+</div>
+{% endblock %}
+ 
+

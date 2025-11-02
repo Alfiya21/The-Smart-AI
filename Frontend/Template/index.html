@@ -1,0 +1,72 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<div class="container my-5">
+  <h2 class="text-center mb-4">🧠 Unlock AI Magic for Every Mission.</h2>
+
+  <!-- Search & Filters -->
+  <form method="POST" class="row g-3 align-items-end mb-4">
+    <div class="col-md-3">
+      <input type="text" name="prompt" value="{{ query }}" class="form-control" placeholder="Search AI tools..." />
+    </div>
+    <div class="col-md-2">
+      <select name="pricing" class="form-select">
+        <option value="all" {% if selected_pricing == 'all' %}selected{% endif %}>All Pricing</option>
+        <option value="Free" {% if selected_pricing == 'Free' %}selected{% endif %}>Free</option>
+        <option value="Paid" {% if selected_pricing == 'Paid' %}selected{% endif %}>Paid</option>
+      </select>
+    </div>
+    <div class="col-md-2">
+      <select name=" sort by rating" class="form-select">
+        <option value="all" {% if selected_pricing == 'all' %}selected{% endif %}>All Ratings</option>
+        <option value="desc" {% if selected_sort == 'desc' %}selected{% endif %}>High to Low</option>
+        <option value="asc" {% if selected_sort == 'asc' %}selected{% endif %}>Low to High</option>
+      </select>
+    </div>
+    <div class="col-md-2">
+      <select name="tag" class="form-select">
+        <option value="">Tags</option>
+        {% for t in tags %}
+          <option value="{{ t }}" {% if selected_tag == t %}selected{% endif %}>{{ t }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="col-md-2">
+      <button type="submit" class="btn btn-primary w-100">Search</button>
+    </div>
+  </form>
+
+  {% if category %}
+    <h4 class="text-center text-muted mb-4">
+      ✨ Unleashing AI magic in: <span class="fw-bold text-primary">{{ category }}</span>
+    </h4>
+  {% endif %}
+
+  <!-- Tool Cards -->
+  {% if tools %}
+    <div class="row">
+      {% for tool in tools %}
+        <div class="col-md-4 mb-4">
+          <div class="card shadow-sm h-100">
+            <div class="card-body d-flex flex-column">
+              <h5 class="card-title">{{ tool['name'] }}</h5>
+              <p class="card-text mb-1 text-muted">{{ tool['category'] }}</p>
+              <p class="small text-muted mb-1">💵 {{ tool['pricing'] }} | ⭐ {{ tool['rating'] }}</p>
+              <div class="mb-2">
+                {% for tag in tool['tags'] %}
+                  <span class="badge bg-secondary">{{ tag }}</span>
+                {% endfor %}
+              </div>
+              <a href="{{ tool['url'] }}" class="btn btn-outline-primary mt-auto" target="_blank">Visit Tool</a>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  {% else %}
+    <p class="text-center text-muted mt-5">🔍 Search to discover AI tools.</p>
+  {% endif %}
+</div>
+
+{% endblock %}
+

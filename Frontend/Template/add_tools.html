@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{% block content %}
+<h2>Add New Tool</h2>
+<form method="POST">
+  Name: <input name="name"><br>
+  Category: <input name="category"><br>
+  Rating: <input type="number" step="0.1" name="rating"><br>
+  URL: <input name="url"><br>
+  Pricing: <input name="pricing"><br>
+  Tags (comma-separated): <input name="tags"><br>
+  Description:<br>
+  <textarea name="description" rows="4" cols="50"></textarea><br>
+  <button type="submit">Add Tool</button>
+</form>
+{% endblock %}

@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+{% block content %}
+<h2>Find AI Tools</h2>
+<form method="POST">
+  <input name="query" placeholder="Describe your task..." value="{{ query }}">
+  <button type="submit">Search</button>
+</form>
+{% for tool in tools %}
+  <div style="border: 1px solid #ccc; margin: 10px; padding: 10px;">
+    <h3><a href="{{ url_for('tool_detail', tool_id=tool[0]) }}">{{ tool[1] }}</a></h3>
+    <p>{{ tool[6][:100] }}...</p>
+    <small>{{ tool[2] }} | ⭐ {{ tool[3] }} | {{ tool[5] }}</small>
+  </div>
+{% else %}
+  <p>No tools found.</p>
+{% endfor %}
+<a href="{{ url_for('add_tool') }}">+ Submit New Tool</a>
+{% endblock %}

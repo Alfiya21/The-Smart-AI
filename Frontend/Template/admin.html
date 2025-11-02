@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+{% block content %}
+<h2 class="mb-4 text-center">Admin Dashboard</h2>
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Category</th>
+      <th>Rating</th>
+      <th>Pricing</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for tool in tools %}
+      <tr>
+        <td>{{ tool[1] }}</td>
+        <td>{{ tool[2] }}</td>
+        <td>{{ tool[3] }}</td>
+        <td>{{ tool[5] }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}
+
+

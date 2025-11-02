@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+{% block content %}
+<h2>{{ tool[1] }}</h2>
+<p>{{ tool[6] }}</p>
+<p>⭐ {{ tool[3] }} | {{ tool[2] }} | {{ tool[5] }}</p>
+<a href="{{ tool[4] }}" target="_blank">Visit</a><br>
+<a href="{{ url_for('favorite', tool_id=tool[0]) }}">Add to Favorites</a>
+
+<h3>Reviews:</h3>
+<ul>
+{% for review in reviews %}
+  <li>{{ review[0] }}</li>
+{% else %}
+  <li>No reviews yet</li>
+{% endfor %}
+</ul>
+
+<form method="POST" action="{{ url_for('review', tool_id=tool[0]) }}">
+  <textarea name="comment" placeholder="Leave a review..."></textarea><br>
+  <button type="submit">Post Review</button>
+</form>
+{% endblock %}
